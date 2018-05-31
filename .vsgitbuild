@@ -1,6 +1,0 @@
-{
-    "username": "[github_username]",
-    "password": "[github_auth_token]",
-    "strictTls": true,
-    "pooling": 10
-}

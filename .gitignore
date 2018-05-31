@@ -1,0 +1,4 @@
+.vsgitbuild
+main.o
+string_display.o
+test
